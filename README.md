@@ -1,3 +1,3 @@
-FooCoin (FOO)
+EagleCoin (EGC)
 
 Blah, blah, blah.
