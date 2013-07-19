@@ -10,8 +10,8 @@ EagleCoin (EGC) - a lite version of Litecoin using scrypt as a proof of work sch
  
 Download
 
-Windows GUI - http://sourceforge.net/projects/eaglecoin/files/eaglecoin-qt-windows.zip/download
-Linux GUI - http://sourceforge.net/projects/eaglecoin/files/eaglecoin-qt-linux.zip/download
+ - Windows GUI - http://sourceforge.net/projects/eaglecoin/files/eaglecoin-qt-windows.zip/download
+ - Linux GUI - http://sourceforge.net/projects/eaglecoin/files/eaglecoin-qt-linux.zip/download
 
 Development process
 ===================
