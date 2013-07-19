@@ -8,6 +8,11 @@ EagleCoin (EGC) - a lite version of Litecoin using scrypt as a proof of work sch
  - 56884 P2P port
  - 51883 Testnet port
  
+Download
+
+Windows GUI - http://sourceforge.net/projects/eaglecoin/files/eaglecoin-qt-windows.zip/download
+Linux GUI - http://sourceforge.net/projects/eaglecoin/files/eaglecoin-qt-linux.zip/download
+
 Development process
 ===================
 
